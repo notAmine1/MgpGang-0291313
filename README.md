@@ -1,1 +1,2 @@
-# MgpGang-0291313
+# Probot ✨
+Epic Discord Bot
